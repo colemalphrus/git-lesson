@@ -6,7 +6,7 @@ def main():
     for i in range(100):
         x += i
 
-    print(i)
+    print(x + x)
 
 
 if __name__ == "__main__":
